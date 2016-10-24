@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Test Chapter
+* [Test Chapter](test_chapter.md)
 
